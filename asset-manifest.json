@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jizhang-react-local-demo/static/css/main.8f64ae86.chunk.css",
+    "main.js": "/jizhang-react-local-demo/static/js/main.e78a7903.chunk.js",
+    "main.js.map": "/jizhang-react-local-demo/static/js/main.e78a7903.chunk.js.map",
+    "runtime-main.js": "/jizhang-react-local-demo/static/js/runtime-main.a9085bfb.js",
+    "runtime-main.js.map": "/jizhang-react-local-demo/static/js/runtime-main.a9085bfb.js.map",
+    "static/js/2.f01f8bba.chunk.js": "/jizhang-react-local-demo/static/js/2.f01f8bba.chunk.js",
+    "static/js/2.f01f8bba.chunk.js.map": "/jizhang-react-local-demo/static/js/2.f01f8bba.chunk.js.map",
+    "index.html": "/jizhang-react-local-demo/index.html",
+    "static/css/main.8f64ae86.chunk.css.map": "/jizhang-react-local-demo/static/css/main.8f64ae86.chunk.css.map",
+    "static/js/2.f01f8bba.chunk.js.LICENSE.txt": "/jizhang-react-local-demo/static/js/2.f01f8bba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9085bfb.js",
+    "static/js/2.f01f8bba.chunk.js",
+    "static/css/main.8f64ae86.chunk.css",
+    "static/js/main.e78a7903.chunk.js"
+  ]
+}
