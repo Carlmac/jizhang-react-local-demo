@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jizhang-react-local-demo/static/css/main.1b934856.chunk.css",
+    "main.js": "/jizhang-react-local-demo/static/js/main.074d5577.chunk.js",
+    "main.js.map": "/jizhang-react-local-demo/static/js/main.074d5577.chunk.js.map",
+    "runtime-main.js": "/jizhang-react-local-demo/static/js/runtime-main.a9085bfb.js",
+    "runtime-main.js.map": "/jizhang-react-local-demo/static/js/runtime-main.a9085bfb.js.map",
+    "static/js/2.f3fad9c3.chunk.js": "/jizhang-react-local-demo/static/js/2.f3fad9c3.chunk.js",
+    "static/js/2.f3fad9c3.chunk.js.map": "/jizhang-react-local-demo/static/js/2.f3fad9c3.chunk.js.map",
+    "index.html": "/jizhang-react-local-demo/index.html",
+    "static/css/main.1b934856.chunk.css.map": "/jizhang-react-local-demo/static/css/main.1b934856.chunk.css.map",
+    "static/js/2.f3fad9c3.chunk.js.LICENSE.txt": "/jizhang-react-local-demo/static/js/2.f3fad9c3.chunk.js.LICENSE.txt",
+    "static/media/bg_1.9644a08d.png": "/jizhang-react-local-demo/static/media/bg_1.9644a08d.png",
+    "static/media/bg_no_records.min.3b2345d0.png": "/jizhang-react-local-demo/static/media/bg_no_records.min.3b2345d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9085bfb.js",
+    "static/js/2.f3fad9c3.chunk.js",
+    "static/css/main.1b934856.chunk.css",
+    "static/js/main.074d5577.chunk.js"
+  ]
+}
